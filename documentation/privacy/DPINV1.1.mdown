@@ -1,0 +1,587 @@
+---
+title: Data Protection Information Notice COVID Tracker App
+---
+
+# 1. Introduction
+===============
+
+The purpose of this privacy information notice is to explain how the COVID
+Tracker App (the ‘app’) works, what data is collected by the app, who has access
+to that data and the purposes for which the data is used. This notice also
+provides you with information about your data protection rights under data
+protection law, including under the EU General Data Protection Regulation (EU
+Regulation 679/2016) (‘the GDPR’).
+
+The app is available to download for free from the Apple App Store and the
+Google Play Store. Use of the app by you is completely voluntary – it is your
+choice to download it, your choice to keep it on your device, your choice to
+opt-in to and use the different services that are available on the app, and your
+choice to delete it. You will never be required to use the app in order to
+access other services from the HSE or Department of Health. You will be given a
+separate opt-in (consent) for each service that processes your personal data in
+the app. You can withdraw your consent(s) at any time.
+
+The app runs on iPhones that support iOS 13.5 and higher, and Android phones
+running Android 6.0 and higher. The app is not intended for use by persons under
+16 years of age, as they are considered not to have reached the digital age of
+consent. You will be asked to confirm that you are 16 years or older after you
+download the app.
+
+# 2. The Data Controllers
+=======================
+
+The Health Service Executive (HSE) and the Department of Health (DoH) are Joint
+Data Controllers. Together they decided the means and purposes for the
+processing of personal data (which includes special categories of personal data
+– health data) using the app. The HSE and DoH are therefore jointly responsible
+for your personal data and have determined their respective responsibilities for
+compliance with their obligations under data protection laws.
+
+In practice, the HSE run all app related systems and process all personal data
+collected via the app. The DoH provide strategic direction for the app. The HSE
+and DoH have decided in a joint agreement that the HSE will act as the primary
+contact in respect of exercising your rights under data protection law, though
+note that you also have the right to contact the DoH in this regard.
+
+# 3. The Data Protection Officer
+==============================
+
+You can contact the HSE Data Protection Officer for data protection information
+in relation to the app.
+
+HSE Data Protection Officer  
+Email: <DPO@HSE.ie>  
+Tel: [+35316350359](tel:+35316350359)
+
+# 4. What the app does
+====================
+
+The app has the purpose of supporting the national public health response and
+members of the public during the COVID-19 crisis. The app has the following
+functions.
+
+1.  Contact Tracing – to notify you as quickly as possible should you have been
+    in close and sustained contact with someone who has tested positive.
+
+2.  COVID Check-In – to enable you to record and upload your health symptoms,
+    without revealing your identity, to the HSE on a daily basis.
+
+3.  News and Information – to give you trusted and convenient facts and figures
+    about coronavirus (COVID-19) in Ireland.
+
+4.  Other Functions – the app can, with your permission, collect metric data so
+    that the HSE, DoH and public health teams can monitor how the app is
+    contributing to the response efforts and get a better understanding of the
+    spread of the virus. The app also has a Leave function that allows you to
+    delete all data held by the app at any time.
+
+The app gives you the option to use some or all of these features and they
+operate independently of each other. There are no linkages or cross-pollination
+of personal data across these features of the app. The app settings also give
+you the ability to remove or update any personal information you provided to the
+app, at any time.
+
+# 5. How the app works
+====================
+
+Let’s look at each feature in the app in detail.
+
+## 5.1 How Contact Tracing works
+-----------------------------
+
+Existing manual contact tracing processes (i.e. where people tell us by phone or
+in person who they have been in contact with) rely on people being able to
+remember who they have been in contact with recently, and how long that contact
+lasted for. In many cases people do not know who they have been in contact with
+(for example, if the contact occurred on a bus or train, at a concert, a
+restaurant or some other public venue).
+
+The app uses technology developed by Apple and Google called COVID-19 Exposure
+Notifications where anonymous rolling identifiers are exchanged between mobile
+phones. Exposure Notifications enable your phone to generate a random, unique
+identifier every 10 to 20 minutes. If you are close to another phone that also
+has Exposure Notifications turned on, your identifier will be saved on that
+person’s phone and your phone will record their identifier. All identifiers will
+remain on your phone, although neither you nor anyone else will be able to see
+them. These anonymous identifiers cannot identify you to other users or to the
+HSE.
+
+If you subsequently receive a positive COVID-19 diagnosis, you will receive a
+call from the Contact Tracing Centre (‘CTC’) within the HSE. You will be asked
+if you are using the Contact Tracing feature on the app and, if you are, you can
+choose to upload your own identifiers to assist the contact tracing process. To
+do this, the CTC will send you a code by SMS which, when entered into the app,
+unlocks an upload function. You can then choose to upload your identifiers to a
+HSE Registry where the identifiers are published publicly and are referred to as
+Diagnosis Keys.
+
+Every two (Android) to four hours (iPhone), the latest Diagnosis Keys from the
+HSE Registry will be downloaded by every user’s phone. These will be used to
+check for matches against the identifiers that have been collected by your
+phone. If there is a match indicating that you were in sustained close contact
+with a person who was diagnosed with COVID-19, you will be notified in the app .
+This is called a ‘Close Contact Alert’.
+
+For all this to work, you have to turn on the Apple/Google Exposure
+Notifications service on your phone. You will be presented with an option to
+allow the app to use this service and to turn this service on during the initial
+screens after you have installed the app. You can change your mind and turn this
+service on or off at any time through the app settings.
+
+If you get a Close Contact Alert, a message will display prominently within the
+app. You can also choose to allow the app to display a phone notification in the
+event of a Close Contact Alert. You will be asked if you wish to allow
+Notifications during the initial screens after you have installed the app. You
+can change your mind and turn this service on or off at any time through the app
+settings.
+
+In the event you receive a Close Contact Alert, you may want someone from the
+HSE to call you. For this to happen you will be asked for your mobile number in
+the app. This is optional. If you do provide it, it will remain in your app
+until such time as you receive a Close Contact Alert. Then, and only then, your
+number will be uploaded to the HSE and they will call you.
+
+It is important to note that the Contact Tracing feature never reveals the
+identity of any person using the app to other app users, and never reveals who
+has been diagnosed positive. Also, if you don’t want a follow up call from the
+HSE and don’t enter your phone number, the HSE will not know if you receive a
+Close Contact Alert.
+
+5.2 How COVID Check-In works
+----------------------------
+
+The COVID Check-In feature of the app enables you on a daily basis to share your
+COVID-19 related symptoms with the HSE. The HSE does not know who the COVID-19
+symptoms relate to. If you choose to check in you will be asked how you are
+feeling. If you respond with ‘I’m not feeling well today’ you will be asked
+4 follow up questions - if you have a fever, difficulty breathing, a cough, and
+any loss of taste or smell. You can check in once a day and these symptoms will
+be uploaded to the HSE. The app will keep a record of your daily check-ins for
+28 days to enable you to review your check-in history.
+
+The first time you use the COVID Check-In feature, you have the option to
+provide your sex, age range and your county and town (if applicable). You do not
+have to provide these. These are optional. If you do provide this information,
+it will be uploaded to the HSE on a daily basis along with your symptoms. You
+can delete this demographic data so it is no longer shared with the HSE during
+check-in at any time through the app settings.
+
+## 5.3 What News and Information is
+--------------------------------
+
+The app will provide you with the latest updates about coronavirus (COVID-19) in
+Ireland. While this information is already available on HSE.ie and Gov.ie, the
+app will display the key numbers in an easily accessible way within the app.
+This includes statistics such as the total number of confirmed cases, number of
+deaths, numbers hospitalised, and the number of cases per county.
+
+## 5.4 What app metrics are collected
+----------------------------------
+
+Metrics can be collected and sent to the HSE to enable the HSE, DoH and public
+health teams to understand your use of the app, its effectiveness as part of the
+pandemic response, and how to improve it. Metric data does not identify you and
+is used to create aggregate views of how the app is being used and the impact it
+is having on the virus. Here is a list of the app metrics which, if you consent,
+are collected from your app.
+
+1.  Whether the app on your phone is in use
+
+2.  Whether the app was deleted or dropped during the on-boarding screens
+
+3.  Whether the app has the Exposure Notifications service switched on
+
+4.  Whether the app has received a Close Contact Alert
+
+5.  Whether the app has uploaded diagnosis keys
+
+6.  The number of diagnosis key matches per Close Contact Alert
+
+7.  Number of days between the app triggering a Close Contact Alert and the
+    upload of diagnosis keys, if applicable
+
+8.  Ratio of Close Contact Alerts to positive cases
+
+# 6. What data is collected and processed
+=======================================
+
+The information processed by the app is a combination of personal data, special
+categories of personal data (health related data), and anonymous data.
+
+This information is processed in 3 different ways, depending whether the
+information has been provided by:
+
+1.  you the user (should you choose to provide it);
+
+2.  the Exposure Notifications service;
+
+3.  your phone or the app.
+
+## 6.1 Provided by you
+-------------------
+
+If you wish, you can provide the following information.
+
+1.  Your phone number – this is used for a follow-up call if you get a Close
+    Contact Alert. If you want a follow-up call, the app will only share the
+    phone number with the HSE in the event of a close contact being registered
+    by the phone. Also, related, if the phone number is shared with the HSE for
+    a follow-up call this is accompanied by the most recent date that you had
+    the close contact so that you can be given appropriate health advice by the
+    HSE (for example, to quarantine for 14 days from the date of last exposure).
+
+2.  COVID Check-In information
+
+    -   Health symptoms such as fever, cough, shortness of breath.
+
+    -   Sex
+
+    -   Age range
+
+    -   County
+
+    -   Town
+
+3.  Your mobile number – if you are diagnosed positive for COVID-19, with your
+    consent CTC will use your mobile number, collected by CTC, to send an upload
+    code to your mobile so that you can upload your diagnosis keys. If a code is
+    sent and you upload your diagnosis keys, your symptom onset date minus 48
+    hours is also used so as to only upload diagnosis keys to the HSE Registry
+    for the period that you are potentially shedding the virus.
+
+Your phone number is linked directly to you and is therefore your personal data.
+The symptom data does not reveal your identity.
+
+## 6.2 The Exposure Notifications service
+--------------------------------------
+
+In respect of the Contact Tracing function, the following data is processed for
+the operation of Exposure Notifications running on your phone if you turn it on.
+
+1.  Identifiers sent and received between phones that have the service turned
+    on.
+
+2.  Identifiers (diagnosis keys) uploaded to the HSE Registry if you are
+    COVID-19 positive and you agree to upload them.
+
+3.  Identifiers (diagnosis keys) downloaded from the HSE Registry to all apps
+    for matching.
+
+The above identifiers are pseudo-random alpha numeric values that cannot be used
+to identify you or anyone else. These are generated, collected and matched on
+your phone only if you enable Exposure Notifications.
+
+## 6.3 Provided by your phone or the app
+-------------------------------------
+
+As a consequence of how network traffic passes across the Internet, your
+Internet Protocol (IP) address is also inevitably transferred to HSE servers. An
+IP address is typically made up of 4 sets of numbers (e.g. 1.2.3.4) and is
+assigned to you by your mobile phone or Wi-Fi service provider. Under the data
+protection law your IP address is generally regarded as personal data.
+
+During the initial screens after installation the app carries out tests to
+verify if the app is a valid HSE app and the phone is a real device. On
+confirmation, the app connects to the HSE servers and exchanges security tokens
+to protect the app backend from security attacks. The security tokens are not
+used to identify you, and are used to check that the Internet traffic coming
+from the app during its lifetime is from a real COVID Tracker App running on a
+real phone.
+
+While your data transmitted between the app and the HSE servers includes the IP
+address and it is considered personal data, the HSE does not use your IP address
+to identify you. Your IP address is removed at the ‘front door’ of the HSE
+servers and any information shared is stripped of the IP address and cannot be
+linked back to you using this address.
+
+Metric data, if consented to, is collected by the app and is shared with the HSE
+as described previously.
+
+# 7. The legal basis for data processing
+======================================
+
+The app is voluntary to use and the legal basis for the processing of the data
+is consent – namely Article 6(1)(a) of the GDPR for the processing of personal
+data and Article 9(2)(a) of the GDPR for the processing of special categories of
+personal data, in this case health related data.
+
+**Withdrawing consent:** You may withdraw your consent at any time, at which
+point your personal data will no longer be processed. You can withdraw your
+consent in the following ways:
+
+-   The app settings give you the ability to remove or update any personal data
+    you provided to the app, at any time.
+
+-   The app has a ‘Leave’ function that allows you to delete all personal data
+    held by the app at any time. Note: the removal of Exposure Notifications
+    service data held by the phone must be deleted via the phone settings as it
+    is outside the control of the app – this is explained as part of the Leave
+    function.
+
+-   If you wish, you can delete the app altogether from your smartphone.
+
+-   You can make a request for deletion to the HSE. This is explained in more
+    detail at Section 12 (Data Subject Rights) below.
+
+# 8. Security measures
+====================
+
+All data stored on your phone is encrypted by the app using the built-in
+encryption capability of your phone. Data is also encrypted when it is uploaded
+to our servers.
+
+The Contract Tracing feature uses a fully 'decentralised' privacy model. This
+means that identifier and diagnosis key matches are made locally on your phone.
+Matches are not made externally by the HSE. This ensures no tracking of people’s
+movements or who they contact can be done.
+
+There are a range of security processes and technologies in place to prevent
+unauthorised access to the data while it is stored on our servers, including
+data encryption, modern firewalls and intrusion prevention.
+
+When information such as diagnosis keys and symptoms are uploaded to HSE servers
+with your IP address, the IP address is stripped from the information at the
+earliest possible opportunity to ensure it cannot be used in any way to
+re-identify the person that uploaded the information.
+
+# 9. Who processes your data
+==========================
+
+The HSE is responsible for running the app and all infrastructure required to
+operate and maintain the app and backend servers.
+
+## 9.1 Data Processors
+-------------------
+
+There are a number of data processors who provide services to the app for the
+HSE and will have access to your information. These are as follows.
+
+-   NearForm are the app developers who will provide technical support on the
+    running of the app.
+
+-   Twilio are the company that send the SMS to your phone which contains the
+    code needed to upload your identifier beacons to the HSE. Twilio’s services
+    are based in the USA. We set out below what protections are in place for
+    your data that is processed by Twilio in the USA.
+
+-   Amazon Web Services provide cloud storage and cloud services for the data
+    uploaded from your phone. This data is processed within Ireland.
+
+-   PFH Technology Group are a managed services company that provides support
+    for IT systems with the HSE.
+
+Contracts are in place between the HSE and each of these third-party processors
+which set out the processors’ obligations and the HSE’s obligations and rights
+with regard to the personal data that is being processed. These contracts comply
+with the legal requirements for processor contracts set out in the GDPR.
+
+Apple and Google - the app can be downloaded free of charge from the Apple App
+Store and the Google Play Store. In this regard they are independent controllers
+as they process account names in order to make the app available. This
+processing activity is separate to the processing of personal data on the app.
+Furthermore, although Apple and Google have developed a COVID-19 Exposure
+Notifications service, which is used in the app, neither company obtain any
+personal data from the app or the Exposure Notifications service itself.
+
+## 9.2 Other recipients
+--------------------
+
+The HSE anonymises any COVID Check-In data and any app metric data that it
+receives from app users. This anonymised data is shared with the Central
+Statistics Office (‘CSO’). The CSO is Ireland's national statistics office and
+its purpose is to impartially collect, analyse and make available statistics
+about Ireland’s people, society and economy.
+
+The CSO will carry out statistical analysis on the information shared with it,
+which it will publish in line with its remit, including to the National Public
+Health Emergency Team (NPHET), Department of Health, the Health Protection
+Surveillance Centre, the HSE, and to the public as appropriate.
+
+The CSO only receives anonymous data from the HSE. It does not receive mobile
+phone numbers or IP addresses. As such, your personal data is not processed by
+the CSO in connection with the app.
+
+# 10. Data transferred outside the European Economic Area
+-------------------------------------------------------
+
+Twilio processes mobile numbers in the USA. This transfer is carried out in
+compliance with data protection legislation through a combination of:
+
+-   binding corporate rules,
+-   Privacy Shield self-certification (a framework to provide US and EU
+    companies with a mechanism to comply with data protection requirements when
+    transferring personal data from the European Union to the United
+    States [https://www.privacyshield.gov/](https://www.privacyshield.gov/), and 
+-   standard contractual clauses.
+
+# 11. How long your personal data is held for
+-------------------------------------------
+
+**Phone number and dates (Contact Tracing function):**
+
+On positive diagnosis, with your consent, your phone number and symptom onset
+date minus 48 hours is used to send you an upload code via SMS and to filter
+diagnosis keys uploaded to the HSE Registry. Once the SMS is sent it is removed
+from the app backend immediately. Once the diagnosis keys are uploaded to the
+HSE Registry the symptom onset date is removed immediately (it is held for a
+maximum of 10 minutes in any case).
+
+If you get a Close Contact Alert and you have asked for the HSE to call you, the
+app will send your number and date of last exposure to the HSE CTC. The app
+servers will immediately delete your number and date information once they have
+been transferred to the HSE CTC. The HSE CTC will then process this information
+in line with the current contact tracing operations. Please refer to the data
+privacy notice on the wider COVID-19 response for more information on your
+rights in relation to this
+processing: <https://www.hse.ie/eng/gdpr/data-protection-covid-19/>.
+
+If you don’t get a Close Contact Alert your number remains in the app on your
+phone until you use the Leave button on the app, delete the app from your phone,
+or remove the phone number within the app settings. The reason your number is
+held on the app until you remove it, is so the app can share it with the HSE if
+you get a Close Contact Alert.
+
+**IP Address and security tokens:**
+
+Following upload of your IP address to HSE servers, it is stripped at the server
+network layer on routing of the traffic to the application layer. User IP
+addresses are never transferred to the application layer. This data is retained
+for as long as it is needed for network communication.
+
+The app security tokens are deleted on selection of the Leave function, or the
+deletion of the app. On deletion of the app, this happens immediately on the
+phone, and after 60 days of inactivity in the app backend (the backend is not
+aware of an app being deleted). Security tokens are retained on the app and the
+app backend to protect the app backend from being subjected to attacks and
+pollution of fake data.
+
+**Exposure Notifications Service identifiers on your device (Contact Tracing
+function):**
+
+This information is retained on your phone for 14 days. 14 days is considered a
+window of epidemiological significance that generally covers the potential for
+viral transmission.
+
+**Diagnosis keys in HSE registry (Contact Tracing function):**
+
+This information is retained for 14 days. As above, 14 days is considered a
+window of epidemiological significance that generally covers the potential for
+viral transmission.
+
+**Diagnosis keys on your device (Contact Tracing function):**
+
+This information is retained for as long as is necessary to perform a match
+check and is deleted thereafter.
+
+**COVID Check-In information:**
+
+This information remains on your app for 28 days. 28 days is considered a window
+of epidemiological significance that generally covers the period of symptom
+onset through to recovery. It can serve as a useful aide-memoire for the user
+over this period.
+
+If uploaded to the HSE, this information is retained for 1 day after receipt by
+the HSE in order to transfer to the CSO. The uploaded data is held for 1 day
+after receipt to give sufficient time to ensure it is securely transferred to
+the CSO, as data is transferred daily in batch. The CSO retain this anonymous
+data in line with its data management policies.
+
+**App metrics:**
+
+This anonymous information is retained by the HSE for a minimum of 7 years and
+is reviewed at that stage for extension or deletion depending on its health
+value. The CSO retain this data in line with its data management policies. This
+data is retained for the purposes of monitoring the efficacy of the app and
+improving it.
+
+## 12. Data Subject rights
+-----------------------
+
+You have rights under the GDPR in respect of the personal data processed by the
+app. Before listing these, it is first worth noting the following considerations
+in regards to personal data processing by the app.
+
+-   IP addresses are not retained on the HSE servers, but are used for transient
+    network routing and network security purposes.
+
+-   Diagnosis keys are not capable of being associated with a person as they are
+    non-identifying by design.
+
+-   The HSE have no access to the identifiers that are used to exchange between
+    phones and are recorded on phones by Exposure Notifications.
+
+-   Symptom data and related demographic data are anonymised once it is received
+    by the HSE by stripping out IP address data, and as such cannot be
+    associated with a person.
+
+-   Phone numbers to which diagnosis key upload codes are sent, are processed in
+    a transient manner and immediately deleted once a  SMS is sent.
+
+-   Phone numbers, if provided for follow-up calls, are processed in a transient
+    manner and deleted as soon as they are transferred to the contact tracing
+    operation. Data subjects can exercise their rights under the CTC processes.
+
+-   Metric data are anonymised once it is received by the HSE by stripping out
+    IP addresses, and as such cannot be associated with a person.
+
+-   Personal data provided to the app can be deleted via the app settings, the
+    Leave function and by deleting the app as detailed previously.
+
+You have the following rights as a data subject under the GDPR in respect of
+your personal data that are processed by the app.
+
+-   **Request information on and access** to your personal data (commonly known
+    as a ‘data subject access request’). This enables you to receive a copy of
+    the personal data we hold about you and to check that we are lawfully
+    processing it.
+
+-   **Request correction** of the personal data that we hold about you. This
+    enables you to have any incomplete or inaccurate information we hold about
+    you corrected.
+
+-   **Request erasure** of your personal data. This enables you to ask us to
+    delete or remove personal data where there is no good reason for us
+    continuing to process it. You also have the right to ask us to delete or
+    remove your personal information where you have exercised your right to
+    object to processing (see below).
+
+-   **Object to processing** of your personal data.
+
+-   **Object to automated decision-making** including profiling, that is not to
+    be the subject of any automated decision-making by us using your personal
+    data or profiling of you.
+
+-   **Request the restriction of processing** of your personal data. This
+    enables you to ask us to suspend the processing of personal data about you,
+    for example if you want us to establish its accuracy or the reason for
+    processing it.
+
+-   **Request transfer of your personal information** in an electronic and
+    structured form to you or to another party (commonly known as a right to
+    ‘data portability’). This enables you to take your data from us in an
+    electronically useable format and to be able to transfer your data to
+    another party in an electronically useable format.
+
+You also have the right to make a complaint to the Data Protection Commission at
+any time in relation to any issues related to our processing of your personal
+data. The Data Protection Commission can be contacted as follows:
+
+-   Via their website: [www.dataprotection.ie](https://www.dataprotection.ie/)
+
+-   By post: Data Protection Commission, 21 Fitzwilliam Square, Dublin 2, D02
+    RD28, Ireland.
+
+# 13. Changes to this Data Protection Information Notice
+------------------------------------------------------
+
+This Data Protection Information Notice may change from time to time and you
+will receive notification of this update in the app.
+
+# 14.Further information
+----------------------
+
+Further information about the app can be found in the Data Protection Impact
+Assessment which has been carried out by the HSE and Department of Health about
+the app. In addition, the source code for the app has been published. Further
+documentation in relation to the app can be found
+at [https://github.com/HSEIreland/](https://github.com/HSEIreland/).
