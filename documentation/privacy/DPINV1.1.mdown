@@ -2,6 +2,10 @@
 title: Data Protection Information Notice COVID Tracker App
 ---
 
+Version 1.01 - Updated 13/7/2020 - Section 9.1 updated to reflect that two of the third party data processors listed do not have access to user data.
+
+Version 1.02 - Updated 28/07/2020 – Section 5.1 updated to notify users that they will be able to use this app when travelling abroad and that apps used by visitors from those countries will work here. Changes also reflect the voluntary nature of users choosing to upload their diagnosis keys.
+
 # 1. Introduction
 ===============
 
@@ -114,6 +118,8 @@ do this, the CTC will send you a code by SMS which, when entered into the app,
 unlocks an upload function. You can then choose to upload your identifiers to a
 HSE Registry where the identifiers are published publicly and are referred to as
 Diagnosis Keys.
+
+As these keys are published publicly, they will also be available to other jurisdictions and countries using the same Apple and Google Exposure Notifications software. You are not obliged to upload your diagnosis keys.
 
 Every two (Android) to four hours (iPhone), the latest Diagnosis Keys from the
 HSE Registry will be downloaded by every user’s phone. These will be used to
@@ -353,22 +359,18 @@ operate and maintain the app and backend servers.
 ## 9.1 Data Processors
 -------------------
 
-There are a number of data processors who provide services to the app for the
-HSE and will have access to your information. These are as follows.
+There are a number of data processors who provide services to the app for the HSE.\n\nThe following companies will have access to your information.
 
--   NearForm are the app developers who will provide technical support on the
-    running of the app.
+-   NearForm are the app developers who will provide technical support on the running of the app.
 
--   Twilio are the company that send the SMS to your phone which contains the
-    code needed to upload your identifier beacons to the HSE. Twilio’s services
-    are based in the USA. We set out below what protections are in place for
-    your data that is processed by Twilio in the USA.
+-   Twilio are the company that send the SMS to your phone which contains the code needed to upload your identifier beacons to the HSE. Twilio’s services are based in the USA. We set out below what protections are in place for your data that is processed by Twilio in the USA.
+  
 
--   Amazon Web Services provide cloud storage and cloud services for the data
-    uploaded from your phone. This data is processed within Ireland.
+The following companies provide services to the HSE but do not have access to your data.
+- PFH Technology Group are a managed services company that provides support for IT systems with the HSE.
 
--   PFH Technology Group are a managed services company that provides support
-    for IT systems with the HSE.
+-  Amazon Web Services (AWS) provide cloud storage and cloud services for the data uploaded from your phone. This is processed in Ireland.\n\n
+  
 
 Contracts are in place between the HSE and each of these third-party processors
 which set out the processors’ obligations and the HSE’s obligations and rights
