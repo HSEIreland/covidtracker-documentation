@@ -119,7 +119,9 @@ unlocks an upload function. You can then choose to upload your identifiers to a
 HSE Registry where the identifiers are published publicly and are referred to as
 Diagnosis Keys.
 
-As these keys are published publicly, they will also be available to other jurisdictions and countries using the same Apple and Google Exposure Notifications software. You are not obliged to upload your diagnosis keys.
+As these keys are published publicly, they will also be available to other jurisdictions 
+and countries with national contact tracing apps that use the same Apple and Google 
+Exposure Notifications software. You are not obliged to upload your diagnosis keys.
 
 Every two (Android) to four hours (iPhone), the latest Diagnosis Keys from the
 HSE Registry will be downloaded by every user’s phone. These will be used to
