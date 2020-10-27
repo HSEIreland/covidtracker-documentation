@@ -14,4 +14,4 @@ none
 ## Improvements 
 - App now references version 1.6 of GAEN SDK
 ## Other changes 
--none 
+- none 
