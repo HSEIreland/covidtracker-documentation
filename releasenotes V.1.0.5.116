@@ -1,0 +1,21 @@
+# COVID Tracker Version 1.0.5.116 Release Note
+## User Upgrade Steps
+-Automatic update from Play Store/App Store 
+-Manual update from Play Store/App Store, requires user to open app store/play store to update the app 
+
+##Breaking Changes
+none
+
+##New Features
+-Vaccination Statistics feature - the feature has been developed to provide more information as it becomes available. Currently in testing. Actual information available at point of release and frequency of update to be agreed 
+-Reminder Notifications for app users who have received a close contact (day 2 after notification & on the last day of restricted movement) 
+-Reminder Notifications for app users who have tested positive and uploaded Random IDs (2 days after upload) 
+-Reminder notifications (optional) to check-in with symptoms 
+-Arabic Language support 
+
+##Bug Fixes
+none
+
+##Improvements
+
+##Other Changes
